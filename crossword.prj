@@ -1,0 +1,12 @@
+#Gosu Experiment
+#Sat Jun 03 18:38:35 EDT 2023
+Tab.Open.B=src/main/gosu/game/Board.gs
+Tab.Open.A=src/main/gosu/scratch/RunMe.gsp
+Recent.Program=scratch.RunMe
+Tab.Active=src/main/gosu/scratch/RunMe.gsp
+Name=crossword
+Classpath.Entry0=src/main/gosu
+Tab.Open.F=src/main/gosu/game/GameFile.gs
+Tab.Open.E=src/main/gosu/util/Filterator.gs
+Tab.Open.D=src/main/gosu/util/Maperator.gs
+Tab.Open.C=src/main/gosu/game/WordList.gs

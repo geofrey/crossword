@@ -1,0 +1,143 @@
+# blank+wall
+. *
+# dimensions
+21 21
+# grid
+......*.......*......
+.......*dream*.......
+......*.......*......
+.......*.....*.......
+......*.......*......
+.......*.*.*.*.......
+*.*.*.....*.*...*.*.*
+.*.*.*.*.......*.*.*.
+........*.....*......
+.....*.........*.....
+......*.......*......
+.....*.........*.....
+......*.....*........
+.*.*.*.......*.*.*.*.
+*.*.*...*.*.....*.*.*
+.......*.*.*.*.......
+......*.......*......
+.......*.....*.......
+......*.......*......
+.......*.....*.......
+......*.......*......
+# words list (doesn't need to be sorted)
+# 3 letters
+bar
+gas
+paw
+tan
+# 5 letters
+abeam
+adieu
+array
+daisy
+dream
+dulse
+ended
+geode
+ibeam #I-beam lol
+laden
+lined
+marts
+navel
+needs
+numen
+panda
+rants
+rhone
+salep
+sumup #sum up
+tided
+vapid
+widen
+yeast
+# 6 letters
+abator
+amused
+badger
+bailie
+busses
+caviar
+coacts
+cuspid
+dryers
+duluth
+edgers
+hangar
+isolde
+isomer
+leaven
+makedo #make do
+omelet
+pipein #pipe in
+relaid
+rewind
+sankin #sank in
+scarce
+sirree
+sparge
+stepon #step on
+tagged
+teaser
+teensy
+uncial
+unkind
+urania
+vienna
+# 7 letters
+address
+balcony
+bestman #best man
+blinder
+boarded
+boatman
+ceramic
+dentist
+derides
+dingoes
+disavow
+eatable
+escudos
+forerun
+galleon
+gathers
+grandma
+jimenez
+kneaded
+lantern
+mutated
+opposed
+paperer
+pelagic
+piranha
+potages
+seminar
+sinedie #sine die
+starkly
+steered
+stirrup
+swallow
+tarried
+teenier
+theater
+thinner
+tracing
+treadle
+ulysses
+upbeats
+wanting
+wapitis
+# 8 letters
+eeriness
+odorless
+rubidium
+winnipeg
+# 9 letters
+limitedly
+parttimer #part-timer
+shortened
+yesterday
